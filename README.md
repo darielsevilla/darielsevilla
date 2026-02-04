@@ -41,12 +41,6 @@
   <a href="https://www.wix.com/" target="_blank"><img src="https://cdn.simpleicons.org/wix/000000" width="40" height="40"/></a>
 </p>
 
-  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/></a>
-  <a href="https://www.wix.com/" target="_blank"><img src="https://cdn.simpleicons.org/wix/000000" width="40" height="40"/></a>
-</p>
-
 
 
 
