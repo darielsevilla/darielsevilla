@@ -15,11 +15,11 @@
     
     + ### [Unithel information site](https://www.unithel.net) 🌐 - website that displays general information on the Honduran internet company Unithel
 
-+ ### Some other personal or academic projects are the following
++ ### Some other personal or academic projects are the following: 
     + ### [Film Catalog App (frontend)](https://github.com/darielsevilla/Film_Catalog)📱 &  [Film Catalog App (backend)](https://github.com/Tatiana-Garcia/Film_Catalog_UX) 📱 - Mobile app made using react native were you can view information on films of your choice, both old and new 
 
-    + ### [Netflix landing page replica](https://github.com/darielsevilla/examen1-darielsevilla-hectorsabillon) 🎬 - Replica of netflix landing page in made using react and material UI 
-    + ### [LearnConnect (Frontend)](https://github.com/andreaortez/LearnConnectPrototipo) 📖 && [LearnConnect (Backend)](https://github.com/Tatiana-Garcia/LearnConnect_Backend) 📖 - Interactive learning platform fnctional prototype, with core functionality, creating interactive learning resources that acommodate to the needs and wants of users, using gemini
+    + ### [Netflix landing page replica](https://github.com/darielsevilla/examen1-darielsevilla-hectorsabillon) 🎬 - Replica of netflix landing page made using react and material UI 
+    + ### [LearnConnect (Frontend)](https://github.com/andreaortez/LearnConnectPrototipo) 📖 & [LearnConnect (Backend)](https://github.com/Tatiana-Garcia/LearnConnect_Backend) 📖 - Interactive learning platform functional prototype, with core functionality, creating interactive learning resources that acommodate to the needs and wants of users, using gemini
     
     + ### [Standard File Manager](https://github.com/darielsevilla/StandardFileManager) 📂 - Standard File Manager project on python 🐍, to test proficiency on records files structures and the b-tree data structure
 
